@@ -1,0 +1,25 @@
+# Python environment
+venv/
+_pycache_/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Logs & debug
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode project settings (optional)
+.vscode/
+
+# Environment files
+.env
