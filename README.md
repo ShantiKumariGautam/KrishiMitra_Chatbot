@@ -23,6 +23,11 @@ AI-Powered Features
 - Prevents overuse/misuse of predictions with safeguards  
 - Responds with helpful, context-aware answers based on HaritSetu's system
 
+##   Architecture
+<p align="center">
+  <img src="KrishiMitra Architecture.jpg" alt=" Architecture" width="800" />
+</p>
+
 ## Tech Stack
 
 | Layer      | Technology Used                    |
